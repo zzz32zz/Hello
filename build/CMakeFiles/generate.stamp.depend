@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Users/zzz/Hello/CMakeLists.txt
+C:/Users/zzz/Hello/build/CMakeFiles/3.10.2/CMakeSystem.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/zzz/Hello/build/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/CMakeGenericSystem.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/Platform/Windows.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/Platform/WindowsPaths.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/CMakeCXXInformation.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/Compiler/MSVC-CXX.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/Platform/Windows-MSVC.cmake
+C:/Users/zzz/Hello/build/CMakeFiles/3.10.2/CMakeRCCompiler.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/CMakeRCInformation.cmake
+C:/msys64/msys64/mingw64/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake
